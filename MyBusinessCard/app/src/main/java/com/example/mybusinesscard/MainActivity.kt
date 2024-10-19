@@ -96,7 +96,7 @@ fun MyName(name: String,
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = modifier
-            .padding(top = 240.dp)
+            .padding(top = 220.dp)
     ) {
         Image(
             modifier = modifier
