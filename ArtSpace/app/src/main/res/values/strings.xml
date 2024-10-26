@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_space_title_1">Bicycle With Snow On the Ground</string>
+    <string name="art_space_artist_1">Aaron John Boone</string>
+    <string name="art_space_release_1">(1994)</string>
+    <string name="art_space_title_2">Ship On the Glacier</string>
+    <string name="art_space_artist_2">Buck Showalter</string>
+    <string name="art_space_release_2">(1989)</string>
+    <string name="art_space_title_3">Northern cityscape in the morning</string>
+    <string name="art_space_artist_3">Scott Daniel Servais</string>
+    <string name="art_space_release_3">(2004)</string>
+</resources>
